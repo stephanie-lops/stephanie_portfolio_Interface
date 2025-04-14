@@ -1,13 +1,10 @@
 # Photographer-Portfolio-Stephanie-Lopes
 ## Portfólio de fotografia analógica
-## stephanie_portfolio_Interface
 **Autor: Stephanie Lopes**
 
-3º MVP PUC Rio - Portfolio pessoal para divulgação de fotografias analógicas e campo de contato para parcerias de trabalho.
+Este projeto é o meu MVP da Sprint 3 do curso de Desenvolvimento Full Stack Básico da PUC RIO, 2024-2025.
 
-Objetivo: Criação de website pessoal para divulgação de fotografias analógicas, campo de contato para parcerias de trabalho e registro de clientes, viabilizando o futuro envio de newsletter.
-Problema: alto custo de sites para portifólio de fotografia e layouts limitados.
-Propósito: O uso de uma website pessoal como portfólio exclui a necessidade do uso de websites genéricos de portfólio, diminuindo custos, flexibilizando o layout e design personalizados e emitindo uma mensagem de maior profissionalismo e confiança para clientes e parceiros.
+Objetivo: Criação de website pessoal para divulgação de fotografias analógicas, campo de contato para parcerias de trabalho e registro de clientes, viabilizando o futuro envio de newsletter. O uso de uma website pessoal como portfólio exclui a necessidade do uso de websites genéricos de portfólio e emite uma mensagem de maior profissionalismo e confiança para clientes e parceiros.
 
 O design da interface de usuário e o protótipo de interatividade entre as páginas e recursos podem ser acessados pelo link a seguir do Figma, ferramenta de design de interface.
 
@@ -17,19 +14,7 @@ Para simulação das intereções no protótipo, utilizar as dimensões 1680 x 1
 
 ## Como Funciona
 
-O projeto funciona utilizando 3 componentes: interface REACT, API Python Flask, e API externa Brevo (envio e recebimento de e-mails).
-
-![image](https://github.com/user-attachments/assets/1568f8a2-1af2-4087-b283-fff42a7428cc)
-
-O projeto faz uso de 6 rotas:
-```
-POST/client
-GET/client
-GET/clients
-PUT/client
-DELETE/client
-POST/contact
-```
+O projeto funciona como uma vitrine de fotografias, divididas em álbuns, a apresentação da autora das fotografias e um formulário para contato.
 
 As páginas do projeto:
 ```
@@ -53,6 +38,15 @@ Portfolio.jsx - Utilizado em 2 páginas, para mostragem dos álbuns.
 SubscribeForm.jsx - Utilizado em 1 página, para registro de clientes.
 ```
 
+O projeto faz uso de 6 rotas:
+```
+POST/client
+GET/client
+GET/clients
+PUT/client
+DELETE/client
+POST/contact
+```
 
 Os dados que alimentam o portfólio, as fotografias usadas, estão no arquivo albunsCollection.json. A estrutura dos álbuns está definida na estrutura:
 ```
