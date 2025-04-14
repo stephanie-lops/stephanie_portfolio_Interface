@@ -14,7 +14,20 @@ Para simulação das intereções no protótipo, utilizar as dimensões 1680 x 1
 
 ## Como Funciona
 
-O projeto funciona como uma vitrine de fotografias, divididas em álbuns, a apresentação da autora das fotografias e um formulário para contato.
+Utilizando a arquitetura do cenário 1.1, o componente principal sendo essa interface, o secundário a API de registro de clientes e a API externa sendo a API Brevo (envio e recebimento de e-mails)
+
+O projeto faz uso de 6 rotas:
+```
+POST/client
+GET/client
+GET/clients
+PUT/client
+DELETE/client
+POST/contact - comunicação com API externa
+```
+
+![image](https://github.com/user-attachments/assets/a8dba2e2-529c-4897-87b9-d616733f5ba0)
+
 
 As páginas do projeto:
 ```
@@ -36,16 +49,6 @@ Item.jsx - Utilizado em 2 páginas, para crianção do card os álbuns e da inte
 MenuOverlay.jsx - Utilizado em todas as 5 páginas
 Portfolio.jsx - Utilizado em 2 páginas, para mostragem dos álbuns.
 SubscribeForm.jsx - Utilizado em 1 página, para registro de clientes.
-```
-
-O projeto faz uso de 6 rotas:
-```
-POST/client
-GET/client
-GET/clients
-PUT/client
-DELETE/client
-POST/contact
 ```
 
 Os dados que alimentam o portfólio, as fotografias usadas, estão no arquivo albunsCollection.json. A estrutura dos álbuns está definida na estrutura:
