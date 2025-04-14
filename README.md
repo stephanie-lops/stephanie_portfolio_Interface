@@ -5,7 +5,9 @@
 
 3º MVP PUC Rio - Portfolio pessoal para divulgação de fotografias analógicas e campo de contato para parcerias de trabalho.
 
-Objetivo: Criação de website pessoal para divulgação de fotografias analógicas, campo de contato para parcerias de trabalho e registro de clientes, viabilizando o futuro envio de newsletter. O uso de uma website pessoal como portfólio exclui a necessidade do uso de websites genéricos de portfólio e emite uma mensagem de maior profissionalismo e confiança para clientes e parceiros.
+Objetivo: Criação de website pessoal para divulgação de fotografias analógicas, campo de contato para parcerias de trabalho e registro de clientes, viabilizando o futuro envio de newsletter.
+Problema: alto custo de sites para portifólio de fotografia e layouts limitados.
+Propósito: O uso de uma website pessoal como portfólio exclui a necessidade do uso de websites genéricos de portfólio, diminuindo custos, flexibilizando o layout e design personalizados e emitindo uma mensagem de maior profissionalismo e confiança para clientes e parceiros.
 
 O design da interface de usuário e o protótipo de interatividade entre as páginas e recursos podem ser acessados pelo link a seguir do Figma, ferramenta de design de interface.
 
