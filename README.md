@@ -188,7 +188,7 @@ O caminho para contato é:
 ```
 Home > Três linhas à direita superior > Contact > Prencher Formulário > Submit
 ```
-O caminho para contato é:
+O caminho para inscrição é:
 ```
 Home > Três linhas à direita superior > Subscribe > Prencher Formulário > Submit
 ```
