@@ -6,12 +6,6 @@ Este projeto é o meu MVP da Sprint 3 do curso de Desenvolvimento Full Stack Bá
 
 Objetivo: Criação de website pessoal para divulgação de fotografias analógicas, campo de contato para parcerias de trabalho e registro de clientes, viabilizando o futuro envio de newsletter. O uso de uma website pessoal como portfólio exclui a necessidade do uso de websites genéricos de portfólio e emite uma mensagem de maior profissionalismo e confiança para clientes e parceiros.
 
-O design da interface de usuário e o protótipo de interatividade entre as páginas e recursos podem ser acessados pelo link a seguir do Figma, ferramenta de design de interface.
-
-Figma: https://www.figma.com/design/hwFy6pRp8jupjQUNIQofFF/MVP?node-id=47-2&node-type=canvas&t=0zJBq6oVOJN5ug9U-0
-
-Para simulação das intereções no protótipo, utilizar as dimensões 1680 x 1100.
-
 ## Como Funciona
 
 Utilizando a arquitetura do cenário 1.1, o componente principal sendo essa interface, o secundário a API de registro de clientes e a API externa sendo a API Brevo (envio e recebimento de e-mails)
