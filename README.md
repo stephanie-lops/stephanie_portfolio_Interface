@@ -7,7 +7,7 @@ Este projeto é o meu MVP da Sprint 3 do curso de Desenvolvimento Full Stack Bá
 Objetivo: Criação de website pessoal para divulgação de fotografias analógicas, campo de contato para parcerias de trabalho e registro de clientes, viabilizando o futuro envio de newsletter. O uso de uma website pessoal como portfólio exclui a necessidade do uso de websites genéricos de portfólio e emite uma mensagem de maior profissionalismo e confiança para clientes e parceiros.
 
 ## Preview do Projeto
-![Preview da Página](assets/images/preview-portfolio.PNG)
+![Preview da Página](public/assets/images/preview-portfolio.PNG)
 
 Link deploy: https://stephanie-portfolio-interface.vercel.app/home
 
