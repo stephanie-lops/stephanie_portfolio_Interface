@@ -421,3 +421,7 @@ O caminho para inscrição é:
 Home > Três linhas à direita superior > Subscribe > Prencher Formulário > Submit
 ```
 Todas as páginas podem ser facilmente acessadas pelo menu sopreposto, que está disponível no canto direito superior em todas as páginas, ou pelo Footer, presente no final de todas as páginas.
+
+## Próximos passos (2026)
+- Responsividade para celular e tablet - Maio/2026
+- Release online - Hospedagem - Junho/2026
