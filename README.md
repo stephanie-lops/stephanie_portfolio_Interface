@@ -217,6 +217,9 @@ Home > Três linhas à direita superior > Subscribe > Prencher Formulário > Sub
 ```
 All pages can be easily accessed via the overlay menu, which is available in the upper right corner of every page, or via the Footer, located at the bottom of every page.
 
+## Next Steps (2026)
+- Responsive design for mobile and tablet
+- Online release - Hosting
 
 ---------------------------------------
 [Portuguese]
@@ -423,5 +426,5 @@ Home > Três linhas à direita superior > Subscribe > Prencher Formulário > Sub
 Todas as páginas podem ser facilmente acessadas pelo menu sopreposto, que está disponível no canto direito superior em todas as páginas, ou pelo Footer, presente no final de todas as páginas.
 
 ## Próximos passos (2026)
-- Responsividade para celular e tablet - Maio/2026
-- Release online - Hospedagem - Junho/2026
+- Responsividade para celular e tablet
+- Release online - Hospedagem
