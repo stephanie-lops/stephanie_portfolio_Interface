@@ -219,7 +219,8 @@ All pages can be easily accessed via the overlay menu, which is available in the
 
 ## Next Steps (2026)
 - Responsive design for mobile and tablet
-- Online release - Hosting
+- Online release - Hosting on Vercel
+- Front and Back end specs to follow on shared points (basead on market and what I like)
 
 ---------------------------------------
 [Portuguese]
